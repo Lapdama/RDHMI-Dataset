@@ -1,2 +1,2 @@
 # RDHMI-Dataset
-This repository contains the dataset for the manuscript "Focal and nonfocal region segmentation dataset for reversible data hiding in medical images"
+This repository contains the dataset for the manuscript "A collection of labels for deep-learning based segmentation in reversible data hiding domain"
